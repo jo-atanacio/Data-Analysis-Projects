@@ -15,7 +15,7 @@ This  data set has 398 rows and 9 columns and provides mileage, horsepower, mode
 | 8 | origin    |  origin of car (1: American, 2: European, 3: Japanese)|
 | 8 | car name      |   car name |
 
-## What topics do touch in this project?
+## What topics do I use in this project?
 - Data Exploration
   - Pairplot & Heatmap
 - Data Preprocessing

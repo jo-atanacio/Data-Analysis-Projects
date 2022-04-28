@@ -27,3 +27,14 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 | 21|Departure Delay in Minutes | Minutes delayed when departure |
 | 22|Arrival Delay in Minutes | Minutes delayed when Arrival |
 | 23|Satisfaction | Airline satisfaction level(Satisfaction, neutral or dissatisfaction) |
+
+## What topics do I use in this project?
+- Data Exploration
+  - Pairplot & Heatmap
+- Data Preprocessing
+  - Label Encoding, One hot encoding, dealing with missing values, standard scaling
+- Classification Models
+  -  Random Forest Classifier
+  -  Logistic Regression
+  -  Naive Bayes
+  -  Support Vector Machine

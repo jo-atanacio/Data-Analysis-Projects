@@ -1,1 +1,14 @@
 # Auto MPG
+
+
+| Columns Position       | Attribute Name  | Description  |
+| :------------- |:-------------| :-----|
+| 1 | mpg | fuel efficiency measured in miles per gallon (mpg) |
+| 2 | cylinders      |  number of cylinders in the engine |
+| 3 | displacement     | engine displacement (in cubic inches)|
+| 4 | horsepower  |   engine horsepower|
+| 5 | weight      |  vehicle weight (in pounds)|
+| 6 | acceleration      |  time to accelerate from O to 60 mph (in seconds) |
+| 7 | model year  |  model year |
+| 8 | origin    |  origin of car (1: American, 2: European, 3: Japanese)|
+| 8 | car name      |   car name |

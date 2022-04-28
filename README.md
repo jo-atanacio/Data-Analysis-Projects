@@ -2,7 +2,7 @@
 Personal Projects in which I try out different tools and algorithms to grow my knowledge in the area.
 
 Auto MPG
--- A database from Kaggle in which I practice different regression techniques.
+/n -- A database from Kaggle in which I practice different regression techniques.
 --- It is a multivariate database, and the point is to predict the fuel efficiency of the car
 
 Airline Satisfaction

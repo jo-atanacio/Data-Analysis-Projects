@@ -1,5 +1,5 @@
 # Data-Analysis-Projects
-Personal Projects in which I try out different tools and algorithms to grow my knowledge in the area.
+Personal page in which I will be uploading the different projects I do in order to grow my knowledge in the area.
 
 ### Auto MPG
 - A [database](https://code.datasciencedojo.com/datasciencedojo/datasets/tree/master/Auto%20MPG) from DataScienceDojo in which I practice different regression techniques.

@@ -32,7 +32,7 @@ This dataset contains an airline passenger satisfaction survey. What factors are
 - Data Exploration
   - Pairplot & Heatmap
 - Data Preprocessing
-  - Label Encoding, One hot encoding, dealing with missing values, standard scaling
+  - Label Encoding, One hot encoding, dealing with missing values, standard scaling, confusion matrix
 - Classification Models
   -  Random Forest Classifier
   -  Logistic Regression

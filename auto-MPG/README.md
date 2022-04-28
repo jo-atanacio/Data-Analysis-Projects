@@ -2,6 +2,7 @@
 
 This  data set has 398 rows and 9 columns and provides mileage, horsepower, model year, and other technical specifications for cars. This data set is recommended for learning and practicing your skills in **exploratory data analysis**, **data visualization**, and **regression modelling techniques**.
 
+## Data Dictionary
 | Columns Position       | Attribute Name  | Description  |
 | -------------: |:-------------| :-----|
 | 1 | mpg | fuel efficiency measured in miles per gallon (mpg) |
